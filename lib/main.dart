@@ -30,8 +30,9 @@ class MyApp extends StatelessWidget {
               Text(
                 'DEVELOPER',
                 style: TextStyle(
-                  fontSize: 25,
+                  fontSize: 20,
                   color: Colors.white,
+                  letterSpacing: 2.5,
                   fontFamily: 'SourceSansPro-Light',
                 ),
               )
