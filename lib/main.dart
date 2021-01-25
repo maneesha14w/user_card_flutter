@@ -26,12 +26,13 @@ class MyApp extends StatelessWidget {
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
                     fontFamily: 'Pacifico'),
-              )
-              Text('Developer',
+              ),
+              Text(
+                'DEVELOPER',
                 style: TextStyle(
                   fontSize: 25,
                   color: Colors.white,
-                  fontFamily: 'SourceSansPro-Light'
+                  fontFamily: 'SourceSansPro-Light',
                 ),
               )
             ],
