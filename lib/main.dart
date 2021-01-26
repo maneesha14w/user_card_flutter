@@ -36,9 +36,8 @@ class MyApp extends StatelessWidget {
                   fontFamily: 'SourceSansPro-Light',
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
-                padding: EdgeInsets.all(10),
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: Row(
                   children: <Widget>[
@@ -60,9 +59,8 @@ class MyApp extends StatelessWidget {
                   ],
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
-                padding: EdgeInsets.all(10),
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: Row(
                   children: <Widget>[
